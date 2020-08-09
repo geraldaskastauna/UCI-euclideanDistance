@@ -1,6 +1,15 @@
-# UCI-euclideanDistance
-A categorisation for UCI handwritten digits data using euclidean distance method
+## Author:
+Geraldas Kastauna\
+http://www.geraldaskastauna.com
 
-Check report for more detailed explanation Or check code comments in Main.java
+## Euclidean distance calculation method for handwritten digits classification
 
-Author: Geraldas Kastauna
+Written using only Java.\
+Categorises UCI Optical Recognition of Handwritten Digits dataset.\
+\
+Check report for more detailed explanation.\
+Code is also well commented so it could provide a better understanding than a report.
+
+## Contact info:
+**University email:** GK468@live.mdx.ac.uk\
+**Personal:** geraldaskastauna@gmail.com
